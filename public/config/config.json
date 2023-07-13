@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "<your-contract-address>",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/<your-contract-address>",
+  "CONTRACT_ADDRESS": "0x49697F82F4465DB70Ba3ACC65D0862ac6c8A5E6b",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x49697F82F4465DB70Ba3ACC65D0862ac6c8A5E6b",
   "NETWORK": {
     "NAME": "Polygon Mumbai",
     "SYMBOL": "MATIC",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea Testnets",
-  "MARKETPLACE_LINK": "<your-opensea-nft-collection-url>",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/efobifrancis-polyaliens",
   "SHOW_BACKGROUND": false
 }
